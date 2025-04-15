@@ -1,1 +1,1 @@
-# mass-production.github.io
+[![pages-build-deployment](https://github.com/mass-production/mass-production.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/mass-production/mass-production.github.io/actions/workflows/pages/pages-build-deployment)
